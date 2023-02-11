@@ -1,0 +1,16 @@
+{
+  "name": "mock-eval5-server",
+  "version": "1.0.0",
+  "description": "mock server for Mock Assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "keywords": [],
+  "author": "tarunksao",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
